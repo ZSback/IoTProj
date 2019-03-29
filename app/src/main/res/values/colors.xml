@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574b</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="disable_to_enable">#621a1717</color>
+    <color name="disable_thumb_green">#1c000000</color>
+    <color name="enable_thumb_green">#66CD00</color>
+</resources>
